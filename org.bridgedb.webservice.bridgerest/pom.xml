@@ -4,6 +4,7 @@
   <groupId>org.bridgedb.webservice</groupId>
   <artifactId>org.bridgedb.webservice.bridgerest</artifactId>
   <name>BridgeDb Webservice Bridgerest</name>
+<version>3.0.14-SNAPSHOT</version>
   
   <parent>
   	<artifactId>bridgedb-bundle</artifactId>
