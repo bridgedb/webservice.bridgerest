@@ -5,6 +5,11 @@
   <artifactId>org.bridgedb.webservice.bridgerest</artifactId>
   <name>BridgeDb Webservice Bridgerest</name>
 	<version>3.0.14-SNAPSHOT</version>
+	
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+    	</properties>
 
 	<build>
 		<directory>target</directory>
